@@ -1,0 +1,104 @@
+2024-12-22 00:00:00.244 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1250598S after last ACK
+2024-12-22 00:00:00.377 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1334272S
+2024-12-22 00:00:41.483 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1060235S after last ACK
+2024-12-22 00:00:41.615 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1324822S
+2024-12-22 00:01:22.743 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1275607S after last ACK
+2024-12-22 00:01:22.880 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.136389S
+2024-12-22 00:02:03.979 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.0997145S after last ACK
+2024-12-22 00:02:04.127 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1482607S
+2024-12-22 00:02:45.244 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1158498S after last ACK
+2024-12-22 00:02:45.382 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1385571S
+2024-12-22 00:03:26.486 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.103523S after last ACK
+2024-12-22 00:03:26.634 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1484517S
+2024-12-22 00:04:07.732 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.0979618S after last ACK
+2024-12-22 00:04:07.869 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1368595S
+2024-12-22 00:04:48.982 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1136081S after last ACK
+2024-12-22 00:04:49.138 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1550085S
+2024-12-22 00:05:30.240 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1024672S after last ACK
+2024-12-22 00:05:30.374 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1336008S
+2024-12-22 00:06:11.481 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1073597S after last ACK
+2024-12-22 00:06:11.635 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1538365S
+2024-12-22 00:06:52.731 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.0966239S after last ACK
+2024-12-22 00:06:52.869 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1375032S
+2024-12-22 00:07:33.979 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1104103S after last ACK
+2024-12-22 00:07:34.141 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1617549S
+2024-12-22 00:08:15.238 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.0971603S after last ACK
+2024-12-22 00:08:15.375 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1370773S
+2024-12-22 00:08:56.479 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1039684S after last ACK
+2024-12-22 00:08:56.639 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1596963S
+2024-12-22 00:09:37.736 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.0968866S after last ACK
+2024-12-22 00:09:37.868 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1326962S
+2024-12-22 00:10:18.986 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1174472S after last ACK
+2024-12-22 00:10:19.141 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1550424S
+2024-12-22 00:11:00.243 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1019115S after last ACK
+2024-12-22 00:11:00.377 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1340465S
+2024-12-22 00:11:41.479 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1026553S after last ACK
+2024-12-22 00:11:41.626 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1464762S
+2024-12-22 00:12:22.734 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1077252S after last ACK
+2024-12-22 00:12:22.878 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.14461S
+2024-12-22 00:13:03.988 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.109169S after last ACK
+2024-12-22 00:13:04.135 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1478419S
+2024-12-22 00:13:45.240 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.104708S after last ACK
+2024-12-22 00:13:45.383 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1425755S
+2024-12-22 00:14:26.481 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.0978938S after last ACK
+2024-12-22 00:14:26.613 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1331829S
+2024-12-22 00:15:07.736 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1221904S after last ACK
+2024-12-22 00:15:07.872 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1361852S
+2024-12-22 00:15:48.985 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1125831S after last ACK
+2024-12-22 00:15:49.134 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1496816S
+2024-12-22 00:16:30.234 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.0999239S after last ACK
+2024-12-22 00:16:30.368 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1344696S
+2024-12-22 00:17:11.488 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1188921S after last ACK
+2024-12-22 00:17:11.623 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1360089S
+2024-12-22 00:17:52.742 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1184353S after last ACK
+2024-12-22 00:17:52.873 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1315128S
+2024-12-22 00:18:33.992 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1183145S after last ACK
+2024-12-22 00:18:34.128 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.136111S
+2024-12-22 00:19:15.239 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1104963S after last ACK
+2024-12-22 00:19:15.378 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1390623S
+2024-12-22 00:19:56.493 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1149007S after last ACK
+2024-12-22 00:19:56.629 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1365912S
+2024-12-22 00:20:37.743 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1138433S after last ACK
+2024-12-22 00:20:37.884 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1404657S
+2024-12-22 00:21:18.992 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1089223S after last ACK
+2024-12-22 00:21:19.132 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1397735S
+2024-12-22 00:22:00.242 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1102118S after last ACK
+2024-12-22 00:22:00.379 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1371812S
+2024-12-22 00:22:41.490 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1106826S after last ACK
+2024-12-22 00:22:41.632 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1415621S
+2024-12-22 00:23:22.738 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1057268S after last ACK
+2024-12-22 00:23:22.871 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1333602S
+2024-12-22 00:24:03.990 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1196857S after last ACK
+2024-12-22 00:24:04.115 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1326568S
+2024-12-22 00:24:45.237 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1134906S after last ACK
+2024-12-22 00:24:45.362 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1355675S
+2024-12-22 00:25:26.483 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1111378S after last ACK
+2024-12-22 00:25:26.608 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1341042S
+2024-12-22 00:26:07.729 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1115903S after last ACK
+2024-12-22 00:26:07.854 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1343779S
+2024-12-22 00:26:48.991 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1279144S after last ACK
+2024-12-22 00:26:49.116 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1351155S
+2024-12-22 00:27:30.237 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1103852S after last ACK
+2024-12-22 00:27:30.362 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1391348S
+2024-12-22 00:28:11.484 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1078836S after last ACK
+2024-12-22 00:28:11.624 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1415602S
+2024-12-22 00:28:52.729 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1039445S after last ACK
+2024-12-22 00:28:52.854 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1345771S
+2024-12-22 00:29:33.992 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1284133S after last ACK
+2024-12-22 00:29:34.133 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1412364S
+2024-12-22 00:30:15.238 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1047885S after last ACK
+2024-12-22 00:30:15.379 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1440446S
+2024-12-22 00:30:56.485 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1028851S after last ACK
+2024-12-22 00:30:56.626 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1455754S
+2024-12-22 00:31:37.732 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.100667S after last ACK
+2024-12-22 00:31:37.872 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1409003S
+2024-12-22 00:32:18.993 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1208061S after last ACK
+2024-12-22 00:32:19.134 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1408249S
+2024-12-22 00:33:00.240 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1058833S after last ACK
+2024-12-22 00:33:00.381 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1511549S
+2024-12-22 00:33:41.487 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.0961271S after last ACK
+2024-12-22 00:33:41.628 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1460556S
+2024-12-22 00:34:22.733 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.0994347S after last ACK
+2024-12-22 00:34:22.873 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1493737S
+2024-12-22 00:35:03.983 [d4j-parallel-1-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Sending heartbeat PT41.1006929S after last ACK
+2024-12-22 00:35:04.115 [reactor-http-nio-3] DEBUG discord4j.gateway.DefaultGatewayClient   : [G:1bf1fb93, S:0] Heartbeat acknowledged after PT0.1327693S
